@@ -1,7 +1,7 @@
 # latexify
 
 Any time your clipboard contains text that starts with `[latex]`, this tool will:
-1. Render the clipboard contents inserted into a LaTeX a document
+1. Render a LaTeX document with the clipboard contents inserted into its body
 2. Place the resulting image in your clipboard
 3. Paste it and press Enter
 
